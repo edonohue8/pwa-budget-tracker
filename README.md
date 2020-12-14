@@ -21,10 +21,12 @@ For this app, I utilized MongoDB Atlas and deployed on Heroku.
 ## Screenshots
 
 * **Offline**
+
 Adding transactions with no internet connection
 <img src="assets/readme/offline.png" width="900">
 
 * **Back Online**
+
 Bringing app back online showing offline-entered transactions getting added to budget tracker
 <img src="assets/readme/online.png" width="900">
 
